@@ -2,6 +2,6 @@
 
 ## Geospatial Maps created using GMT & QGIS 
 
-![image1](Geo-Portfolio.png)
+![image1](Geo-Portfolio2.png)
 
 
